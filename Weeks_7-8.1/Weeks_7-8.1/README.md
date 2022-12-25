@@ -1,3 +1,2 @@
-# react-gusdqt
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-gusdqt)
+Edited on StackBlitz
+Note:Use other links for next and back buttons!
