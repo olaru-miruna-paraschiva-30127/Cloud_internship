@@ -1,3 +1,2 @@
-# react-gkpsee
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-gkpsee)
+Edited on StackBlitz
+Note:Use other links for next and back buttons!
