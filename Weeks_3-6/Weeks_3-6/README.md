@@ -1,3 +1,2 @@
-# react-bjwxbv
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-bjwxbv)
+Edited on StackBlitz
+Note: Use other links for next and back buttons! 
