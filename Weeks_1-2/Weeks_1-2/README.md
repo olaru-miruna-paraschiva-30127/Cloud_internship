@@ -1,2 +1,2 @@
 Edited on StackBlitz
-Note: Use other links for next button!
+Note: Use other link for next button!
