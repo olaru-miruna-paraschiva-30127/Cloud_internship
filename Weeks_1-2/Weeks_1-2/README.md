@@ -1,3 +1,2 @@
-# react-hnjjf3
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hnjjf3)
+Edited on StackBlitz
+Note: Use other links for next button!
