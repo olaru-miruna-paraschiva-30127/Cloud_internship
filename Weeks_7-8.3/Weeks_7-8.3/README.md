@@ -1,3 +1,2 @@
-# react-z5hwbb
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-z5hwbb)
+Edited on StackBlitz
+Note: Use other links for next and back buttons!
